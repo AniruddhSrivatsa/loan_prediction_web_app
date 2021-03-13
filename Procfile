@@ -1,1 +1,0 @@
-web: sh setup.sh && streamlit run loan_pre7.py
